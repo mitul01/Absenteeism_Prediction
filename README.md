@@ -2,14 +2,6 @@
 From given dataset of a firm, this model is trained to predict what are the chances whether a employee at firm will be present or absent at a given day.
 Factors provided by the firm are:-
 
-</li> 
-</li>
-</li>	
-
-
-Absenteeism Time in Hours
-  
-  
   <table style="width:100%">
   <tr><th>ID</th></tr>
    <tr>< <th>Reason for Absence</th></tr>
@@ -21,3 +13,5 @@ Absenteeism Time in Hours
    <tr> <th>Children</th></tr>
   <tr>  <th>Pets</th></tr>
 </table>
+
+To predict:- <h2>Absenteeism Time in Hours</h2>
