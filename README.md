@@ -11,15 +11,13 @@ Absenteeism Time in Hours
   
   
   <table style="width:100%">
-  <tr>
-    <th>ID</th>
-    <th>Reason for Absence</th>
-    <th>Age</th>
-    <th>Transportation Expense</th>
-    <th>Distance to Work</th>
-    <th>Average	Body Mass Index	</th>
-    <th>Education</th>
-    <th>Children</th>
-    <th>Pets</th>
-   </tr>
+  <tr><th>ID</th></tr>
+   <tr>< <th>Reason for Absence</th></tr>
+    <tr><th>Age</th></tr>
+    <tr><th>Transportation Expense</th></tr>
+   <tr> <th>Distance to Work</th></tr>
+   <tr> <th>Average	Body Mass Index	</th></tr>
+   <tr> <th>Education</th></tr>
+   <tr> <th>Children</th></tr>
+  <tr>  <th>Pets</th></tr>
 </table>
